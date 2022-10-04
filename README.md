@@ -1,5 +1,7 @@
 # synthetic_tabular_data
 
+## Applying GANs and Diffusion Models to Tabular Data
+
 See blog post for more context: XXX
 
 ## Resources & References
