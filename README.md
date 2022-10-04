@@ -1,5 +1,6 @@
 # synthetic_tabular_data
 
+See blog post: XXX
 
 ## Resources & References
 
