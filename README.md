@@ -4,7 +4,7 @@
 
 This repository contains a demonstration case of applying Generative Adversarial Networks (GANs) and diffusion models to tabular data using a classic binary classification machine learning dataset from UC Irvine's machine learning repository. 
 
-Please see blog post for additional context: XXX
+Please see blog post for additional context: [Applying Gans and Diffusion Models to Tabular Data](https://medium.com/@iszpakowski/e43a99c5021f)
 
 ## Resources & References
 
